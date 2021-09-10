@@ -1,5 +1,6 @@
 package com.android.currencyconverter.data.remote.dto
 
+import com.android.currencyconverter.domain.model.CoinDetail
 import com.google.gson.annotations.SerializedName
 
 data class CoinDetailDto(
